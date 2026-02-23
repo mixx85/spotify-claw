@@ -4,6 +4,16 @@ Full-featured Spotify skill for OpenClaw agents. Controls playback, analyzes you
 
 ---
 
+## Why I built this
+
+I'm a music person. Always have been. When I set up my OpenClaw agent, the existing Spotify skills felt too basic — play/pause, that's it. I wanted my agent to actually *know* my taste.
+
+So I built this for myself. The result: an agent that understands my genre profile, can dig through my 480+ liked songs to find everything by a specific artist, builds playlists from my actual top tracks in one command, and discovers new music without relying on Spotify's broken Recommendations API (they killed it for new developer apps).
+
+If you care about music and want your agent to feel like it genuinely gets what you listen to — this is for you.
+
+---
+
 ## Why this over other Spotify skills?
 
 | Feature | spotify-claw | spotify-player | spoticlaw |
